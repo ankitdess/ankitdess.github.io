@@ -24,7 +24,7 @@ button{background-color: #000000; outline: none; border: none; color: #ffffff;cu
 
 ._wp{width: 70%;} ._ws{width: 25%;} ._ck{background-color: #3C8141;}
 
-input:focus{
+input:hover{
     border-bottom: 2px solid #000000;
 }
 
